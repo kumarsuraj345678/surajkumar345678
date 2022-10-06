@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @surajkumar345678<br>- 🔭 I’m Currently Preparing For Placements<br>- 👀 I’m interested in Machine Learning<br>- 🌱 I’m currently learning Google Cloud Platform<br>- 💞️ I’m looking to collaborate on WebDev repositories<br>- 😄 Pronouns: He/His<br>- 📫 How to reach me https://www.linkedin.com/in/suraj-kumar-b23762131, https://twitter.com/SurajKumar_444
+👋 Hi, I’m @surajkumar345678<br>🔭 I’m Currently Preparing For Placements<br>👀 I’m interested in Machine Learning<br>🌱 I’m currently learning Google Cloud Platform<br>💞️ I’m looking to collaborate on WebDev repositories<br>😄 Pronouns: He/His<br>📫 How to reach me https://www.linkedin.com/in/suraj-kumar-b23762131, https://twitter.com/SurajKumar_444
 
 
 ## 🌐 Socials:
