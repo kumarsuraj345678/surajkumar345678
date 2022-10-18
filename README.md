@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @surajkumar345678<br>🔭 I’m Currently Preparing For Placements<br>👀 I’m interested in Machine Learning<br>🌱 I’m currently learning Google Cloud Platform<br>💞️ I’m looking to collaborate on WebDev repositories<br>😄 Pronouns: He/His<br>📫 How to reach me https://www.linkedin.com/in/suraj-kumar-b23762131, https://twitter.com/SurajKumar_444
 
-# Hacktoberfest Holopin Badges:
+# ![image](https://user-images.githubusercontent.com/60316890/196321997-14277477-c602-43b4-8e03-90f48e0a6543.png)
+ Hacktoberfest Holopin Badges:
 [![@kumarsuraj345678's Holopin board](https://holopin.me/kumarsuraj345678)](https://holopin.io/@kumarsuraj345678)
 
 
