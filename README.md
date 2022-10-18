@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m @surajkumar345678<br>🔭 I’m Currently Preparing For Placements<br>👀 I’m interested in Machine Learning<br>🌱 I’m currently learning Google Cloud Platform<br>💞️ I’m looking to collaborate on WebDev repositories<br>😄 Pronouns: He/His<br>📫 How to reach me https://www.linkedin.com/in/suraj-kumar-b23762131, https://twitter.com/SurajKumar_444
 
+---
+[![](https://visitcount.itsvg.in/api?id=surajkumar345678&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # ![My project](https://user-images.githubusercontent.com/60316890/196322707-b0ebf39c-7760-47df-8f75-583b0a51badc.png)  Hacktoberfest Holopin Badges:
 [![@kumarsuraj345678's Holopin board](https://holopin.me/kumarsuraj345678)](https://holopin.io/@kumarsuraj345678)
 
@@ -23,8 +26,6 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=surajkumar345678&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Suraj2000) 
