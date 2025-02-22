@@ -2,9 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=kumarsuraj345678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">
+<div style="background-image: url('https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png?itok=UypeFJn4'); background-size: cover; background-position: center; padding: 40px 0;">
+  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Kumar!;" />
-</h1>
+  </h1>
+</div>
+
 
 <h3 align="center">🚀 A Passionate Frontend Developer from New Delhi, India 🚀</h3>
 
