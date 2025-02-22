@@ -40,7 +40,7 @@
 
  <hr/>
  
-### ⚒️ Languages-Frameworks-Tools ⚒️
+### ⚒️ Languages-Frameworks-Tools:
 <br/>
 
 <div align="center">
