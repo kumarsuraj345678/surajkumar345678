@@ -16,8 +16,10 @@
 <div align="center">
   
 ![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+![aboutImage (Small)](https://github.com/user-attachments/assets/b3c651d7-8ca6-4537-81b8-8e262077e310)
 
 </div>
+
 
 ---
 
