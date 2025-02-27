@@ -14,9 +14,9 @@
 <br/>
 
 <div align="center">
-  
-![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
-![aboutImage (Small)](https://github.com/user-attachments/assets/b3c651d7-8ca6-4537-81b8-8e262077e310)
+
+![gifgit](https://github.com/user-attachments/assets/c5d69961-a180-4a9d-b5da-2a3e488a590e)
+![aboutImage (Small) (Phone)](https://github.com/user-attachments/assets/8184b0e2-b3ea-4481-92c1-574f9c435a3a)
 
 </div>
 
