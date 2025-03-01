@@ -60,6 +60,12 @@
 
 ---
 
+
+# ![My project](https://user-images.githubusercontent.com/60316890/196322707-b0ebf39c-7760-47df-8f75-583b0a51badc.png)  Hacktoberfest Holopin Badges:
+[![@kumarsuraj345678's Holopin board](https://holopin.me/kumarsuraj345678)](https://holopin.io/@kumarsuraj345678)
+
+---
+
 ### ⚒️ Languages-Frameworks-Tools:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass" /><br/>
